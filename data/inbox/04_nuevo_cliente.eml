@@ -1,0 +1,43 @@
+From: Ana <ana@distribuidoranueva.example>
+To: pedidos@empaques.example
+Subject: Pedido
+Date: Mon, 16 Nov 2026 12:12:00 -0300
+Message-ID: <04_nuevo_cliente@mail.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1758133048877019756=="
+
+--===============1758133048877019756==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Les paso el pedido adjunto.
+
+--===============1758133048877019756==
+Content-Type: application/pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="pedido.pdf"
+MIME-Version: 1.0
+
+JVBERi0xLjMKJenr8b8KMSAwIG9iago8PAovQ291bnQgMQovS2lkcyBbMyAwIFJdCi9NZWRpYUJv
+eCBbMCAwIDU5NS4yOCA4NDEuODldCi9UeXBlIC9QYWdlcwo+PgplbmRvYmoKMiAwIG9iago8PAov
+T3BlbkFjdGlvbiBbMyAwIFIgL0ZpdEggbnVsbF0KL1BhZ2VMYXlvdXQgL09uZUNvbHVtbgovUGFn
+ZXMgMSAwIFIKL1R5cGUgL0NhdGFsb2cKPj4KZW5kb2JqCjMgMCBvYmoKPDwKL0NvbnRlbnRzIDQg
+MCBSCi9QYXJlbnQgMSAwIFIKL1Jlc291cmNlcyA2IDAgUgovVHlwZSAvUGFnZQo+PgplbmRvYmoK
+NCAwIG9iago8PAovRmlsdGVyIC9GbGF0ZURlY29kZQovTGVuZ3RoIDI2Mwo+PgpzdHJlYW0KeJxl
+jz1vgzAURff8ijsmUuLaBALJ1vRj6JAyMGZ52G7lFmyETSvl19dmiFQxPftK57x3M7ytOCtK/K7O
+DR5eBYRgnKP5wEuTor1gokLFOdtnaBTWz8aH0bSTUW4kXCb9Q9ih1ioGGzRf/7iy4iyvZu6ipfYm
+UO88BopoR/C6J0tQuoPI44Ay0ui+HfVpqTpwdshnFeLCyZLHPl7aus7Hpw9k1W4akiUrOD5xXXcx
+j9+bGQY9XjdLZc5ZebwrW9cam+7q41CE83tdb1N1fJvO+SWecXYsZrwetTQO0vUu9ZIumBvFxKb9
+ToYpVmJLAY9DzIInZwPJ4E54tLRNomEkf0f+AKkrdfMKZW5kc3RyZWFtCmVuZG9iago1IDAgb2Jq
+Cjw8Ci9CYXNlRm9udCAvSGVsdmV0aWNhCi9FbmNvZGluZyAvV2luQW5zaUVuY29kaW5nCi9TdWJ0
+eXBlIC9UeXBlMQovVHlwZSAvRm9udAo+PgplbmRvYmoKNiAwIG9iago8PAovRm9udCA8PC9GMSA1
+IDAgUj4+Ci9Qcm9jU2V0IFsvUERGIC9UZXh0IC9JbWFnZUIgL0ltYWdlQyAvSW1hZ2VJXQo+Pgpl
+bmRvYmoKNyAwIG9iago8PAovQ3JlYXRpb25EYXRlIChEOjIwMjYxMTE3MTczMjAwWikKPj4KZW5k
+b2JqCnhyZWYKMCA4CjAwMDAwMDAwMDAgNjU1MzUgZiAKMDAwMDAwMDAxNSAwMDAwMCBuIAowMDAw
+MDAwMTAyIDAwMDAwIG4gCjAwMDAwMDAyMDUgMDAwMDAgbiAKMDAwMDAwMDI4NSAwMDAwMCBuIAow
+MDAwMDAwNjIwIDAwMDAwIG4gCjAwMDAwMDA3MTcgMDAwMDAgbiAKMDAwMDAwMDgwNCAwMDAwMCBu
+IAp0cmFpbGVyCjw8Ci9TaXplIDgKL1Jvb3QgMiAwIFIKL0luZm8gNyAwIFIKL0lEIFs8REE0NUFG
+QUE0MkNEQTkwNTZBOUI3Nzg0NzgxNTRERTM+PERBNDVBRkFBNDJDREE5MDU2QTlCNzc4NDc4MTU0
+REUzPl0KPj4Kc3RhcnR4cmVmCjg1OQolJUVPRgo=
+
+--===============1758133048877019756==--

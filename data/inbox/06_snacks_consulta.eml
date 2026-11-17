@@ -1,0 +1,10 @@
+From: Abastecimiento <abastecimiento@snacksandinos.example>
+To: pedidos@empaques.example
+Subject: Consulta de stock
+Date: Mon, 16 Nov 2026 15:12:00 -0300
+Message-ID: <06_snacks_consulta@mail.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+¿Tienen stock de bobina PET/AL/PE para enero? Gracias.

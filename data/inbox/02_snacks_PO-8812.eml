@@ -1,0 +1,29 @@
+From: Abastecimiento <abastecimiento@snacksandinos.example>
+To: pedidos@empaques.example
+Subject: PO-8812 empaques diciembre
+Date: Mon, 16 Nov 2026 09:52:00 -0300
+Message-ID: <02_snacks_PO-8812@mail.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7577260000011856873=="
+
+--===============7577260000011856873==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hola, va la PO de diciembre en CSV.
+Gracias.
+
+--===============7577260000011856873==
+Content-Type: text/csv
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="PO-8812.csv"
+MIME-Version: 1.0
+
+b2Msc2t1LGRlc2NyaXBjaW9uLGNhbnRpZGFkLHVuaWRhZCxwcmVjaW9fdW5pdCxmZWNoYV9lbnRy
+ZWdhLG1vbmVkYQpQTy04ODEyLEJPQi0xMDAyLEJvYmluYSBQRVQvQUwvUEUgMyBjYXBhcyw2MDAs
+a2csNy4yMCwyMDI2LTEyLTE1LFVTRApQTy04ODEyLEJTVS0yMDAxLEJvbHNhIHN0YW5kLXVwIDI1
+MCBnIGNvbiB6aXBwZXIsMTIsbWlsbGFyLDk1LjAwLDIwMjYtMTItMTUsVVNEClBPLTg4MTIsRVRR
+LTMwMDEsRXRpcXVldGEgdGVybW9jb250cmFpYmxlIFBWQywyMixtaWxsYXIsMjIuNTAsMjAyNi0x
+Mi0xNSxVU0QK
+
+--===============7577260000011856873==--

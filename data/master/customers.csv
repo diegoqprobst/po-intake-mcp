@@ -1,0 +1,4 @@
+customer_id,name,email_domain,currency,lead_time_days
+C001,Lácteos del Sur S.A.,lacteosdelsur.example,USD,14
+C002,Snacks Andinos S.A.,snacksandinos.example,USD,21
+C003,Café Rambla S.R.L.,caferambla.example,USD,14

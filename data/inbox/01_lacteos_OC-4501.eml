@@ -1,0 +1,25 @@
+From: Compras <compras@lacteosdelsur.example>
+To: pedidos@empaques.example
+Subject: Orden de compra OC-4501
+Date: Mon, 16 Nov 2026 09:12:00 -0300
+Message-ID: <01_lacteos_OC-4501@mail.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+Buenos días,
+
+Adjuntamos la siguiente orden de compra.
+
+ORDEN DE COMPRA N° OC-4501
+Fecha de entrega: 2026-12-10
+Moneda: USD
+
+SKU | Descripción | Cantidad | Unidad | Precio unitario
+BOB-1001 | Bobina BOPP/PE laminada 60 micras | 1.500 | kg | 4,80
+TAP-4001 | Tapa de aluminio termosellable | 200 | millar | 14,00
+
+Total: USD 10.000,00
+
+Saludos,
+Compras - Lácteos del Sur
